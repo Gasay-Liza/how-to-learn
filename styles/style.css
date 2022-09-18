@@ -44,6 +44,7 @@
 
 .header__subtitle{
   position: absolute;
+  margin: 0 0;
   width: 388px;
   left: 64px;
   bottom: 30px;
@@ -177,6 +178,7 @@ text-decoration: none;
 
 .table__text{
   margin-top: 20px;
+  margin-bottom: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
