@@ -1,0 +1,14 @@
+.cards__item{
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  max-width: 240px;
+  padding: 0 0;
+  padding-top: 60px;
+  padding-right: 100px;
+  margin: 0;
+}
+
+.cards__item:nth-of-type(3){
+  padding-right: 0;
+}
