@@ -1,12 +1,11 @@
 .footer__column-link{
-  display: inherit;
+  display: inline-block;
   color:inherit;
   text-decoration: none;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
   transition: opacity 0.3 ease, transform 0.3 ease;
-  display: inline-block;
 }
 
 .footer__column-link:hover{
