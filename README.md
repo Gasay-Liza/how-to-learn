@@ -16,4 +16,4 @@ HTML, CSS, Flex-Box, BEM
 * Шрифты, фреймы.
 
 ------
-[Ссылка на gh-pages]
+[Ссылка на gh-pages](https://gasay-liza.github.io/how-to-learn/)
